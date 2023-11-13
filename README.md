@@ -4,7 +4,7 @@
 ## 目录
 * [简介](#简介)
   * [写在最前](#写在最前)
-  * [关于本仓库](#关于本仓库)
+  * [关于汉化组仓库](#关于汉化组仓库)
   * [关于游戏发布](#关于游戏发布)
 * [免责声明](#免责声明)
 * [更新日志](#更新日志)
@@ -21,7 +21,7 @@
   - [官方 Discord][discord]
   - [游戏源码仓库][gitgud]
 
-### 关于本仓库
+### 关于汉化组仓库
 -> [中文本地化(源)仓库地址][github-dol] <-
 
 本仓库发布的包体**实为在相关汉化组汉化的基础上个人于中文社区（包括但不限于百度贴吧等）搜集、取得授权和整理相关美化之整合包体，并非汉化组提供，且我个人并非相关汉化组组员。因主要获得的美化内容多来自于百度贴吧(BaiduTieba Community)，因此以下可能会称其为TC美化**。
@@ -60,8 +60,9 @@
 <summary>点击展开</summary>
 
 > 2023.11.12
-> - 发布 `dol-0.4.3.3-chs-alpha2.1.2` 整合包体
->   - 相关汉化组版本更新公告参见汉化组版本发布仓库
+> - 发布 `dol-0.4.3.3-chs-alpha2.1.2` 整合包体。
+>
+> - 相关汉化组版本更新公告参见汉化组版本发布仓库。
 >
 
 </details>
@@ -79,5 +80,3 @@
 [releases-latest]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/releases/latest
 [modloader]: https://github.com/Lyoko-Jeremie/DoLModLoaderBuild/releases
 [issues]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/issues/new/choose
-
-[issue2]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/issues/2
