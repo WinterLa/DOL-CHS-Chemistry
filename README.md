@@ -76,6 +76,8 @@
 > - 09:57补充说明：已删除包体内TC美化服装“恶系复古洋装”。经过多次测试仍有恶性bug以至于无法正常显示之后的服装。
 >
 > 10:35补充：已更新安卓BEC+PB&MEOW+TC整合包体。含开启作弊版本。PC端后续补充。
+>
+> 13:45补充：已添加issue，虽然咱也不知道这个有什么用x_x
 > 
 > - 相关汉化组版本更新公告参见汉化组版本发布仓库。
 >
@@ -94,4 +96,4 @@
 [android]: https://vrelnir.blogspot.com/?zx=a843afdd9c310383
 [releases-latest]: https://github.com/WinterLa/DOL-CHS-Chemistry/releases/latest
 [modloader]: https://github.com/Lyoko-Jeremie/DoLModLoaderBuild/releases
-[issues]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/issues/new/choose
+[issues]: https://github.com/WinterLa/DOL-CHS-Chemistry/issues/new/choose
