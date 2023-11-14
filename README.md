@@ -43,7 +43,7 @@
 **BEC：** Beeesss Community。基础美化，此仓库所有的添加美化内容均已此美化作为基础。<br>
 **PB:** Papa Paril's Beeesss。PB特写，此内容可为玩家模型的右侧添加一个面部特写。在包体内两种特写只能同时存在一个。<br>
 **G25** G259M。G25特写，G259M是一位韩国社区的美化作者。中文社区大多称KR特写。此内容可为玩家模型的右侧添加一个面部特写。在包体内两种特写只能同时存在一个。<br>
-**TC** Tieba Community。TC美化，为个人在中文社区“百度贴吧”和其他中文社区内搜集、取得授权、整理相关美化资源以进行整合，为主要整合的资源。
+**TC** Tieba Community。TC美化，为个人在中文社区“百度贴吧”和其他中文社区内搜集、取得授权、整理相关美化资源以进行整合，为主要整合的资源。<br>
 **MEOW** MEOW美化。为discord社区作者okbd321所创作，已取得整合授权。此内容可改变玩家模型的面部外貌。
 
 ### 关于游戏发布
@@ -74,6 +74,8 @@
 > - release指向错误， `dol-0.4.3.3-chs-alpha2.1.2` 整合包体待重新调整。非常抱歉x_x
 >
 > - 09:57补充说明：已删除包体内TC美化服装“恶系复古洋装”。经过多次测试仍有恶性bug以至于无法正常显示之后的服装。
+>
+> 10:35补充：已更新安卓BEC+PB&MEOW+TC整合包体。含开启作弊版本。PC端后续补充。
 > 
 > - 相关汉化组版本更新公告参见汉化组版本发布仓库。
 >
@@ -90,6 +92,6 @@
 [ghpages]: https://eltirosto.github.io/Degrees-of-Lewdity-Chinese-Localization/
 [netlify]: https://graceful-starlight-97b8ae.netlify.app/
 [android]: https://vrelnir.blogspot.com/?zx=a843afdd9c310383
-[releases-latest]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/releases/latest
+[releases-latest]: https://github.com/WinterLa/DOL-CHS-Chemistry/releases/latest
 [modloader]: https://github.com/Lyoko-Jeremie/DoLModLoaderBuild/releases
 [issues]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/issues/new/choose
