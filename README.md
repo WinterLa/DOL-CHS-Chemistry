@@ -4,6 +4,7 @@
 ## 目录
 * [简介](#简介)
   * [写在最前](#写在最前)
+  * [必看事项！](#必看事项)
   * [关于汉化组仓库](#关于汉化组仓库)
   * [包体后缀缩写解释](#包体后缀缩写解释)
   * [关于游戏发布](#关于游戏发布)
@@ -21,6 +22,14 @@
   - [中文游戏维基][wiki-cn]
   - [官方 Discord][discord]
   - [游戏源码仓库][gitgud]
+
+  ---
+
+## 必看事项
+### 自汉化组汉化版本2.2.0及之后，汉化更新不再基于修改源代码更新，而是使用汉化组发布的汉化包进行更新。<br>
+1.进入到[汉化组2.2.0release页][github-dol2.2.0]，向下滑动并下载``ModI18N.zip``文件
+
+---
 
 ### 关于汉化组仓库
 -> [中文本地化(源)仓库地址][github-dol] <-
@@ -131,6 +140,7 @@
 [gitgud]: https://gitgud.io/Vrelnir/degrees-of-lewdity/-/tree/master/
 [discord]: https://discord.gg/VznUtEh
 [github-dol]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/
+[github-dol2.2.0]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/releases/tag/v0.4.3.3-chs-alpha2.2.0
 [github-we]: https://github.com/Eltirosto/Degrees-of-Lewdity-World-Expansion-Chinese-Localization/
 [ghpages]: https://eltirosto.github.io/Degrees-of-Lewdity-Chinese-Localization/
 [netlify]: https://graceful-starlight-97b8ae.netlify.app/
